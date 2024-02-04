@@ -25,7 +25,7 @@
 
   ↓↓↓
 
-  [Google colab Worker](https://stablehorde.net/register)
+  [Google colab Worker](https://colab.research.google.com/github/arcaria/Worker/blob/main/colab_reGen_worker.ipynb)
 
 - Firstly you should input settings of your worker:
   
