@@ -43,7 +43,7 @@
 
 - Post processing and experimental:
   - You might want to enable **allow_post_processing:** (it enables things such as upacalers and face improvers for you worker, in this case I recommend set **max_power** around 32)
-  - **allow_controlnet:** - enables controlnet. (advanced img2img)
+  - **allow_controlnet:** - enables controlnet (advanced img2img)
  
     <kbd>![postprocesss](https://github.com/Neron-25/AIhorde-guide/assets/127858929/291232ad-d488-487c-85fb-e66c24cf9f4d)</kbd>
 
@@ -60,3 +60,5 @@
   <kbd>![nwmnebf](https://github.com/Neron-25/AIhorde-guide/assets/127858929/bdab6f17-6e53-4998-b84c-1fd5ab4dbd34)</kbd>
 
 Averagely colab runs for ~ 6 hours and after ~ 3 hrs there will be an alert where you should check "Im not a robot". You can try creating multiple google accounts to run several workers (one account can run only one worker at time), and you will need to create other unique names for new workers.
+
+All questions you can ask here: [A Division by Zer0](https://discord.gg/dK4DAKt)
