@@ -61,4 +61,4 @@
 
 Averagely colab runs for ~ 6 hours and after ~ 3 hrs there will be an alert where you should check "Im not a robot". You can try creating multiple google accounts to run several workers (one account can run only one worker at time), and you will need to create other unique names for new workers.
 
-All questions you can ask here: [A Division by Zer0](https://discord.gg/dK4DAKt)
+All questions you can ask here: [A Division by Zer0](https://discord.gg/cvTnSbxygB)
