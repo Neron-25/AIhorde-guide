@@ -35,7 +35,7 @@
   - **recommended_model1:** Choose one from most popular models you want to host. **It shouldnt be SDXL model** (google colab doesnt support it because of lack of power, but if you run paid colab version you might try)
   - **recommended_model2:** Dont choose, leave as None, except you are using paid colab version.
 
-  <kbd>![colab1](https://github.com/Neron-25/AIhorde-guide/assets/127858929/f725a1ec-8934-44a9-83ce-86cfb982e697)</kbd>
+    <kbd>![colab1](https://github.com/Neron-25/AIhorde-guide/assets/127858929/f725a1ec-8934-44a9-83ce-86cfb982e697)</kbd>
 
 - If you want to run specific model - set **recommended_model1:** and **recommended_model2:** to None, choose desired model in **model1**. 
 
