@@ -59,6 +59,7 @@
 
   <kbd>![nwmnebf](https://github.com/Neron-25/AIhorde-guide/assets/127858929/bdab6f17-6e53-4998-b84c-1fd5ab4dbd34)</kbd>
 
-Averagely colab runs for ~ 6 hours and after ~ 3 hrs there will be an alert where you should check "Im not a robot".
+Averagely colab runs for ~ 6 hours and after ~ 3 hrs there will be an alert where you should check "Im not a robot".  
+**Do not multiaccount.**
 
 All questions you can ask here: [A Division by Zer0](https://discord.gg/cvTnSbxygB)
