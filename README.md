@@ -59,6 +59,6 @@
 
   <kbd>![nwmnebf](https://github.com/Neron-25/AIhorde-guide/assets/127858929/bdab6f17-6e53-4998-b84c-1fd5ab4dbd34)</kbd>
 
-Averagely colab runs for ~ 6 hours and after ~ 3 hrs there will be an alert where you should check "Im not a robot". You can try creating multiple google accounts to run several workers (one account can run only one worker at time), and you will need to create other unique names for new workers.
+Averagely colab runs for ~ 6 hours and after ~ 3 hrs there will be an alert where you should check "Im not a robot".
 
 All questions you can ask here: [A Division by Zer0](https://discord.gg/cvTnSbxygB)
